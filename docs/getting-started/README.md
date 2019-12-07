@@ -59,7 +59,7 @@ Execute the following command in each of the project directories that you
 just created.
 
 ```
-dotnet add package Microsoft.ML --version 1.4-preview
+dotnet add package Microsoft.ML --version 1.4
 ```
 
 By executing this command you'll add a reference to the `Microsoft.ML` package.

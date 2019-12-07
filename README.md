@@ -31,8 +31,9 @@ Please clone this repository to disk for the best experience during the
 tutorial. It includes the solution files as well as some starter files.
 
 ```
-git clone https://github.com/wmeints/mlnet-tutorial.git
+git clone https://github.com/GlobalAICommunity/Workshop-MLNet.git
 ```
 
 After cloning the repository, start with the 
 [Getting started](docs/getting-started/README.md) section.
+
