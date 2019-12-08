@@ -170,4 +170,5 @@ Thank you for your time and hope you enjoyed it!
 Feel free to post an issue on this repository if you've found something wrong in
 the text. Otherwise, have a great day!
 
-If you're up for it, you can also try the automated ML tool. I've made [a video to demonstrate how it works.](https://youtu.be/6udPLZR0vvQ)
+If you're up for it, you can also try the automated ML tool. 
+[Here's a video to demonstrate how it works.](https://youtu.be/6udPLZR0vvQ)
