@@ -29,4 +29,4 @@ individual sections of this tutorial. You can clone the repository
 from https://github.com/globalaicommunity/workshop-mlnet/  and use the
 code from the `src/starter` folder if you prefer a starter solution.
 
-Ready? Start with the [Getting started](getting-started/README.md) section.
+Ready? Start with the [Getting started](https://globalaicommunity.github.io/Workshop-MLNet/#/) section.
