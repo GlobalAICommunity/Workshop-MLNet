@@ -19,7 +19,7 @@ The following topics are covered in this tutorial:
 
 ## System Requirements
 
-You'll need a laptop running Mac, Windows, or Linux with .NET Core 3.0
+You'll need a laptop running Mac, Windows, or Linux with .NET Core 3.1
 installed. You can get the .NET Core SDK here: https://dotnet.microsoft.com/
 
 In addition to this, please make sure you have either 
