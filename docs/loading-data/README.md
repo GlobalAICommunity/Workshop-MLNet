@@ -212,4 +212,4 @@ for use during the next section.
 
 In the next section, we'll cover how to train a machine learning model.
 
-[Go to the next section](../training-models/README.md)
+[Next section](../training-models/README.md)
