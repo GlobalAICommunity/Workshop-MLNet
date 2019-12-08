@@ -17,7 +17,7 @@ or [VSCode](https://code.visualstudio.com) installed.
 ## Getting started
 
 The tutorial is published as a website on github pages. Please navigate to the
-[Getting started](http://globalaicommunity.github.io/workshop-mlnet) section to
+[Getting started](https://globalaicommunity.github.io/Workshop-MLNet/#/) section to
 get started.
 
 ## Contributing
