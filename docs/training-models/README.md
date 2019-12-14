@@ -82,4 +82,4 @@ disk.
 In the next section, we'll expand the code a little bit to include validation
 logic to test whether the model is working correctly.
 
-[Next section](../testing-models/README.md)
+[Next section](testing-models/README.md)

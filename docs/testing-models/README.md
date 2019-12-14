@@ -85,4 +85,4 @@ validation method to test your model.
 In the next section, we'll look at how to use the model in a ASP.NET core web
 application.
 
-[Next section](../using-models/README.md)
+[Next section](using-models/README.md)

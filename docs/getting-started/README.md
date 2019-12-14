@@ -102,5 +102,5 @@ In this section, we've created a new project for the Github issue classifier and
 added the ML.NET package to it. In the next section, we'll load the dataset to
 prepare the model.
 
-[Next section](../loading-data/README.md)
+[Next section](loading-data/README.md)
 
