@@ -37,6 +37,8 @@ value for this field, we'll use the `Title` and `Description` fields.
 The `Area` field is the label column, while the `Title` and `Description`
 columns are the features used by our model to make a prediction.
 
+Create a new folder `Data` in the solution folder. Then, download the dataset.
+
 [Download the dataset](https://github.com/wmeints/mlnet-tutorial/raw/master/data/corefx-issues-train.tsv)
 
 After downloading the dataset, place it in the `Data` folder within the solution
