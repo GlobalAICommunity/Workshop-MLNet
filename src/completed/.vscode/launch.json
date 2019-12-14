@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Trainer/bin/Debug/netcoreapp2.2/Trainer.dll",
+            "program": "${workspaceFolder}/Trainer/bin/Debug/netcoreapp3.1/Trainer.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Trainer",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
@@ -23,7 +23,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/Website/bin/Debug/netcoreapp2.2/Website.dll",
+            "program": "${workspaceFolder}/Website/bin/Debug/netcoreapp3.1/Website.dll",
             "args": [],
             "cwd": "${workspaceFolder}/Website",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
