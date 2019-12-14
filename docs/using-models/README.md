@@ -17,7 +17,7 @@ To make a prediction, we'll need a page in the web application that allows the
 user to enter some test data. Since this is no an ASP.NET tutorial, we've gone
 ahead and prebuilt the page for you.
 
-Copy the contents from the [src/starter/Website](../../src/starter/Website) folder into the
+Copy the contents from the [src/starter/Website](https://github.com/GlobalAICommunity/Workshop-MLNet/tree/master/src/starter/Website) folder into the
 Website project. Make sure to build and run the project to make sure that the
 code works as expected.
 
